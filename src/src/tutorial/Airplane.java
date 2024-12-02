@@ -33,7 +33,6 @@ public class Airplane {
     protected EngineType engineType;
     protected int weight;
     protected Color color;
-    
   }
   
   public Airplane(Builder builder) {
